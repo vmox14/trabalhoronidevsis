@@ -1,0 +1,6 @@
+void main (){
+  double comp=20;
+  double larg=10;
+  double area=comp*larg;
+  print("A área do terreno é: $area metros quadrados");
+}
